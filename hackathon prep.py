@@ -1,0 +1,1 @@
+print('Recognised: "all the muders were well documented"\nProbability: 99.7783939894')
