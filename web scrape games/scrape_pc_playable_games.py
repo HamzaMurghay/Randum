@@ -36,5 +36,3 @@ with open("games_i_can_play.txt", "w", encoding='utf-8') as games_i_can_play:
             title = title.replace(" System Requirements", "")
 
             games_i_can_play.write(title + "\n")
-
-        break
