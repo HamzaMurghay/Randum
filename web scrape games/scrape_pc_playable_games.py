@@ -1,8 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import time
-import pandas as pd
-
 
 with open("cookies.txt") as f:
     x = f.read()
@@ -20,24 +17,24 @@ url = "https://www.pcgamebenchmark.com/compatible-games"
 
 base_url = "https://www.pcgamebenchmark.com/compatible-games/page-{}"
 
-for page in range(2, 7):
-    url = base_url.format(page)
-    response = requests.get(url, cookies=cookie_val, headers=headers)
 
-    if response.status_code != 200:
-        print(f'Failed to fetch page {page}')
-        continue
+with open("games_i_can_play.txt", "w", encoding='utf-8') as games_i_can_play:
+    for page in range(2, 7415):
+        url = base_url.format(page)
+        response = requests.get(url, cookies=cookie_val, headers=headers)
 
-    chai = BeautifulSoup(response.content, 'lxml')
+        if response.status_code != 200:
+            print(f'Failed to fetch page {page}')
+            continue
 
-    titles = chai.find_all('a', class_="name")
+        chai = BeautifulSoup(response.content, 'lxml')
 
-    for tag in titles:
-        title = tag['title']
-        title = title.replace(" System Requirements", "")
+        titles = chai.find_all('a', class_="name")
 
-        print(title)
+        for tag in titles:
+            title = tag['title']
+            title = title.replace(" System Requirements", "")
 
+            games_i_can_play.write(title + "\n")
 
-
-# print(chai)
+        break
