@@ -49,3 +49,83 @@ uid	ec746671-23b7-4db5-8cc1-6a607a266df7	.criteo.com	/	2026-02-13T07:51:10.733Z	
 UID	1A03dfb1991b2d5c5ee2f271736404571	.scorecardresearch.com	/	2026-06-12T01:04:23.778Z	36		✓	None			Medium
 uids	eyJzeW5jcyI6eyIzM2Fjcm9zcyI6IjIwMjUtMDUtMDlUMTA6NTI6NDYuMjYwMzIxOTE2WiIsImFjdWl0eWFkcyI6IjIwMjUtMDUtMThUMDA6MTI6MTIuNjE3MDg2ODU5WiIsImNvbm5lY3RhZCI6IjIwMjUtMDUtMTJUMTM6MTk6MTEuOTEzNjk0NjE3WiIsImVwbGFubmluZyI6IjIwMjUtMDUtMTVUMTc6NDM6MDIuMDM5NDk5NjA5WiIsImZyZWV3aGVlbCI6IjIwMjUtMDUtMDlUMTA6Mzg6MzQuMzgyMTMzNjExWiIsImltcHJvdmVkaWdpdGFsIjoiMjAyNS0wNS0xNVQxNzo0MToyNi4zMjEwNjk5NDZaIiwiaW5zdGljYXRvciI6IjIwMjUtMDUtMDlUMTA6NTI6NDYuMjYwMzIyODE2WiIsIm9uZXRhZyI6IjIwMjUtMDUtMTVUMTc6MjU6MjUuODUzMzEzOTQ3WiIsIm9wZW54IjoiMjAyNS0wNS0xOFQwMDoxMjoxMi42MTcwOTAyOTlaIiwib3BlbnhwYnMiOiIyMDI1LTA1LTA5VDEwOjUyOjQ2LjI2MDI4OTkwNloiLCJwdWJtYXRpYyI6IjIwMjUtMDUtMTVUMTc6NDE6MjYuMzIxMDkzNTQ2WiIsInJ0YmhvdXNlIjoiMjAyNS0wNS0xNVQxNzo0MzowMi4wMjY2OTU2MjJaIiwicnViaWNvbiI6IjIwMjUtMDUtMTZUMTE6MDg6MjguODMzNzQ5OTIxWiIsInNtYXJ0IjoiMjAyNS0wNS0xOFQwMDoxMjoxMi42MTcwODc4MDlaIiwic292cm4iOiIyMDI1LTA1LTE1VDE3OjI1OjI1Ljg1MzMyODc5N1oiLCJ0cmlwbGVsaWZ0IjoiMjAyNS0wNS0xNlQxMTowODoyOC44MzM3NDc1MjFaIiwidW5ydWx5IjoiMjAyNS0wNS0xOFQwMDoxMjoxMi42MTcwOTA4MzlaIn0sInVpZHMiOnsiMzNhY3Jvc3MiOnsidWlkIjoiMjEyOTY3OTczOTE0NjE0IiwiZXhwaXJlcyI6IjIwMjUtMDctMDhUMTA6NTI6NTAuMTczMTAwOTk3WiJ9LCJhZGFnaW8iOnsidWlkIjoiOTM1YzBhM2UtMTcyZC00Nzk4LTkyYzUtMTQ4NzA3Mzc0MDJiIiwiZXhwaXJlcyI6IjIwMjUtMDYtMDhUMjA6MzM6MjYuNzgxMDE2ODkyWiJ9LCJjb25uZWN0YWQiOnsidWlkIjoiODJjNTkzZGUtODNmMS00ZDY4LWFiMDUtOWJmZTE1ZThmMDU3IiwiZXhwaXJlcyI6IjIwMjUtMDctMTFUMTM6MTk6MTkuMDYzOTkzMDY0WiJ9LCJlcGxhbm5pbmciOnsidWlkIjoiQUxTazNjTHc3cjYwYWwwaiIsImV4cGlyZXMiOiIyMDI1LTA3LTExVDEzOjE5OjE1Ljg3NTE5NTc1NVoifSwiZnJlZXdoZWVsIjp7InVpZCI6ImEyNGVmZWEwNTJkOWE3ZTY4ZTNjZDg2NDM3MDUyNzYiLCJleHBpcmVzIjoiMjAyNS0wNy0wOFQxMDozODozNC43ODcxMTEyMjdaIn0sImltcHJvdmVkaWdpdGFsIjp7InVpZCI6IjdkYTU2NjkyLTc3MGYtNDc1NS1hNTNkLWVlMjI0MzFlMGE1NiIsImV4cGlyZXMiOiIyMDI1LTA3LTE0VDE3OjQxOjI4LjkyMjE2NzU1N1oifSwib25ldGFnIjp7InVpZCI6InYxeDFaeVBScnN6YVlITy1RXzhGWjYtcTMxZlNDLUUySTFVWHhVclZ2TVkiLCJleHBpcmVzIjoiMjAyNS0wNy0xNFQxNzoyNTozMS4zNjUyNTk4MDFaIn0sIm9wZW54Ijp7InVpZCI6IjlkMjhkYzM5LTg4ZjUtNDRlYS1hOWI4LWUyMDEwNzgyZDIwZiIsImV4cGlyZXMiOiIyMDI1LTA3LTE3VDAwOjEyOjE1LjY2NjQ3NDY5NFoifSwib3BlbnhwYnMiOnsidWlkIjoiMjhmYzU3NjMtZTYwMi00NWNiLThlOWQtMWYzMzVkNWIxOTZhIiwiZXhwaXJlcyI6IjIwMjUtMDctMDhUMTA6NTI6NDcuOTc2NzEwNjc2WiJ9LCJwdWJtYXRpYyI6eyJ1aWQiOiJGQ0U3MzFFQi1DNTBBLTQxNDgtQUYxMi1GNzEzQTNBMDY3NUMiLCJleHBpcmVzIjoiMjAyNS0wNy0xNFQxNzo0MTozMy4zNzAxMjE0M1oifSwicnRiaG91c2UiOnsidWlkIjoiaTUtMzU4V0JXemFXbUExUkFybFo4bUhQR3BQUk5UNmdCZWctTDlIMlUxRSIsImV4cGlyZXMiOiIyMDI1LTA3LTE0VDE3OjQzOjEyLjQwMTI4MjQwN1oifSwicnViaWNvbiI6eyJ1aWQiOiJNNFlEOElSUC1BLUtENDQiLCJleHBpcmVzIjoiMjAyNS0wNy0xNVQxMTowODozMy45OTIxODcxOTZaIn0sInNtYXJ0Ijp7InVpZCI6IjY2NzI1ODg2NzU1NTEzMjU3MTQiLCJleHBpcmVzIjoiMjAyNS0wNy0xN1QwMDoxMjoxNC45NjQ2MTE3ODJaIn0sInNvdnJuIjp7InVpZCI6IktCdDNBTFpIdzAtRFppRE1UZ21RNzU4eCIsImV4cGlyZXMiOiIyMDI1LTA3LTE0VDE3OjI1OjMxLjkwNjY4NDQ3MloifSwidHJpcGxlbGlmdCI6eyJ1aWQiOiIzMDIyMjcwMTkzNjYwMDIzNTQ1ODIiLCJleHBpcmVzIjoiMjAyNS0wNy0xNVQxMTowODozMS43MTMxODU0NTRaIn0sInVucnVseSI6eyJ1aWQiOiJSWC1mZmY2NDA4Yy0yNjFmLTRhNTQtYjk1Mi05MGUyYmYzMDhlMWEtMDA0IiwiZXhwaXJlcyI6IjIwMjUtMDctMTdUMDA6MTI6MTcuNzA3MDg1NDM5WiJ9fSwiYmRheSI6IjIwMjUtMDQtMDlUMjA6MzM6MjYuNzgwNDcxNjgzWiJ9	.4dex.io	/	2025-07-17T00:12:13.509Z	3108		✓	None			Medium
 XID	1A03dfb1991b2d5c5ee2f271736404571	.scorecardresearch.com	/	2026-06-12T01:04:23.779Z	36		✓	None	https://pcgamebenchmark.com	✓	Medium
+
+
+
+
+
+
+
+Got it — since the file was committed 4 commits ago and you haven’t pushed yet, you can safely rewrite history to remove the file from those commits.
+
+Here’s what to do:
+
+✅ Remove a file from past commits (un-pushed)
+🛠 Option 1: Use interactive rebase (recommended)
+Open Terminal in PyCharm.
+
+Run this command:
+
+bash
+Copy
+Edit
+git rebase -i HEAD~4
+This opens an editor listing your last 4 commits.
+
+You’ll see something like:
+
+sql
+Copy
+Edit
+pick abc123 Commit message 1
+pick def456 Commit message 2
+pick ghi789 Commit message 3
+pick jkl012 Commit message 4
+Change pick to edit on the commit where the file was added:
+
+sql
+Copy
+Edit
+pick abc123 Commit message 1
+edit def456 <-- this is where the bad file was added
+pick ghi789 Commit message 3
+pick jkl012 Commit message 4
+Save and close the editor.
+
+Git will now stop at that commit.
+
+Run the following commands to remove the file from the commit:
+
+bash
+Copy
+Edit
+git reset HEAD^
+git restore --staged path/to/file.txt
+git commit -C HEAD@{1}
+git reset HEAD^: Unstages all changes from that commit.
+
+git restore --staged: Unstage only the bad file.
+
+git commit -C HEAD@{1}: Re-create the commit with the same message but without the file.
+
+Now continue the rebase:
+
+bash
+Copy
+Edit
+git rebase --continue
+Repeat if necessary if the file was in more than one commit.
+
+🧽 Optional: If you want to remove the file from your working directory too:
+bash
+Copy
+Edit
+rm path/to/file.txt
+Then optionally add it to .gitignore.
+
+⚠️ Important
+This only works because you haven’t pushed. If you had pushed, this would require force-pushing, which can be dangerous on shared branches.
+
+Make sure everything looks right after the rebase using git log or the PyCharm VCS log.
+
+Would you like help identifying the commit where the file was first added? I can walk you through that too.
